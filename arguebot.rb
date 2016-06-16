@@ -38,5 +38,5 @@ loop do
   end
 
   puts "Waiting for new @mention..."
-  sleep 60
+  sleep 180
 end
